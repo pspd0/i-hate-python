@@ -1,1 +1,1 @@
-# i-hate-python
+# python is blueblue
